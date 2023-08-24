@@ -1,4 +1,4 @@
-### Part 1.1: There Will Be Code
+### There Will Be Code
 
 It has been suggested by some that the era of coding is nearing its end, with models and requirements taking precedence. The idea is that soon all code will be generated rather than written, rendering programmers obsolete as business professionals generate programs from specifications. It's interesting to note that this book was written in 2008 and yet still much about this same discussion is still fresh, specially with the rapid and recent surge of generative ai models such as ChatGPT and Bard.
 
